@@ -32,3 +32,5 @@ Open up the theme file and remove this code from it ([L26-39](https://github.com
     text-align: center;
 }
 ```
+
+> Made by [Pointy](https://github.com/PointyDev) with help from [BeardDesign](https://github.com/BeardDesign1)
