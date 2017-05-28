@@ -34,3 +34,5 @@ Open up the theme file and remove this code from it ([L26-39](https://github.com
 ```
 
 > Made by [Pointy](https://github.com/PointyDev) with help from [BeardDesign](https://github.com/BeardDesign1)
+
+> [Ebrima](https://www.microsoft.com/typography/fonts/font.aspx?FMID=2114) font made by Microsoft
