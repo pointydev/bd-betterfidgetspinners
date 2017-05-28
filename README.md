@@ -15,7 +15,7 @@ Please install [BetterDiscord](http://betterdiscord.net) and refer to [this guid
 ### Download:
 [Auto-updating (recommended)](http://betterdiscord.net/ghdl/?url=https://github.com/PointyDev/bd-betterfidgetspinners/blob/master/BetterFidgetSpinners.theme.css)
 
-[Current version (not recommended)](http://betterdiscord.net/ghdl/?url=https://github.com/PointyDev/bd-betterfidgetspinners/blob/master/BetterFidgetSpinners.theme.css)
+[Current version (not recommended)](http://betterdiscord.net/ghdl/?url=https://github.com/PointyDev/bd-betterfidgetspinners/blob/master/src/BetterFidgetSpinners.css)
 
 ## Options
 ### Removing the "kill yourself" text on hover
