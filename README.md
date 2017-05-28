@@ -12,8 +12,15 @@ Light Theme
 
 ## How to install
 Please install [BetterDiscord](http://betterdiscord.net) and refer to [this guide](https://github.com/Jiiks/BetterDiscordApp/wiki/Themes#how-to-add-a-theme).
-### Download:
-[Auto-updating version](http://betterdiscord.net/ghdl/?url=https://github.com/PointyDev/bd-betterfidgetspinners/blob/master/BetterFidgetSpinners.theme.css)
+### Download (recommended): [Auto-updating version](http://betterdiscord.net/ghdl/?url=https://github.com/PointyDev/bd-betterfidgetspinners/blob/master/BetterFidgetSpinners.theme.css)
+
+### Alternatively, 
+You can put the following in your custom CSS and restart:
+```css
+/* BetterFidgetSpinners™ Auto-Updating Theme */
+@import url(https://rawgit.com/PointyDev/bd-betterfidgetspinners/master/src/BetterFidgetSpinners.css);
+```
+(Does not work with BetterCustomCSS)
 
 ## Options
 ### Removing the "kill yourself" text on hover
