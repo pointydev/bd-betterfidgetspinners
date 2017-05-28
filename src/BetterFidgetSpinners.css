@@ -44,6 +44,10 @@
     text-align: center;
 }
 
+.friends-header .header-toolbar:hover::after {
+    right: 278px!important;
+}
+
 .theme-light .header-toolbar:before {
     color: rgba(0,0,0,0.4)
 }
