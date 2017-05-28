@@ -26,7 +26,7 @@
     color: #fff;
 }
 
-/*.header-toolbar:hover::after {
+.header-toolbar:hover::after {
     content: "kill yourself";
     right: 505px!important;
     background-color: #303030!important;
@@ -39,7 +39,7 @@
     position:absolute;
     color:#fff;
     text-align: center;
-}*/
+}
 
 .theme-light .header-toolbar:before {
     color: rgba(0,0,0,0.4)
