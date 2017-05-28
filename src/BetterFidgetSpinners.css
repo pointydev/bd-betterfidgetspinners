@@ -16,7 +16,6 @@
     color: rgba(255,255,255,0.5);
     transform-origin: 50% 60%!important;
     font-family:Ebrima,Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
-    transform-origin: 50% 50%;
 }
 
 .header-toolbar:hover::before {
