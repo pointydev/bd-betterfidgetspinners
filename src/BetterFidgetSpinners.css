@@ -9,6 +9,10 @@
   184021060562321419
   ------------------------*/
 
+.header-toolbar {
+    pointer-events:none;
+}
+
 .header-toolbar:before {
     margin-right: 12px;
     content: "߷";
@@ -17,6 +21,7 @@
     transform-origin: 50% 60%!important;
     font-family:Ebrima,Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
     transform-origin: 50% 50%;
+    pointer-events:initial!important;
 }
 .header-toolbar:hover::before {
     -webkit-animation: betterfidgetspin 10s cubic-bezier(0.2,0,0,1);
