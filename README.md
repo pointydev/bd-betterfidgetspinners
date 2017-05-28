@@ -4,11 +4,11 @@ The first fidget spinner theme with photorealistic design and animation for Disc
 ## Previews
 Dark Theme
 
-![Dark Theme](http://i.imgur.com/nA1TIaE.gif)
+![Dark Theme](http://i.imgur.com/XaERAXk.gif)
 
 Light Theme
 
-![Light Theme](http://i.imgur.com/AvnDffh.gif)
+![Light Theme](http://i.imgur.com/1cTJ1ww.gif)
 
 ## How to install
 Please install [BetterDiscord](http://betterdiscord.net) and refer to [this guide](https://github.com/Jiiks/BetterDiscordApp/wiki/Themes#how-to-add-a-theme).
