@@ -9,6 +9,13 @@
   184021060562321419
   ------------------------*/
 
+.bda-name span[data-reactid*="$BetterFidgetSpinners™"] {
+    display: none!important;
+}
+.bda-name[data-reactid*="$BetterFidgetSpinners™"]::before {
+    content: "BetterFidgetSpinners™ by Pointy";
+}
+
 .header-toolbar:before {
     margin-right: 12px;
     content: "߷";
