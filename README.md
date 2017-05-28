@@ -15,7 +15,7 @@ Please install [BetterDiscord](http://betterdiscord.net) and refer to [this guid
 
 ## Options
 ### Removing the "kill yourself" text on hover
-Open up the theme file and remove this code from it ([L26-39](https://github.com/PointyDev/bd-betterfidgetspinners/blob/master/BetterFidgetSpinners.theme.css#L26-L39))
+Open up the theme file and remove this code from it ([L29-42](https://github.com/PointyDev/bd-betterfidgetspinners/blob/master/BetterFidgetSpinners.theme.css#L29-L42))
 ```css
 .header-toolbar:hover::after {
     content: "kill yourself";
