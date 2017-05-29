@@ -22,6 +22,11 @@ You can put the following in your custom CSS and restart:
 ```
 (Does not work with BetterCustomCSS)
 
+#### Why isn't this in the official #theme-repo?
+Some mod kept on deleting it because they don't know what a joke is.
+
+![Pu is a cunt](http://i.imgur.com/EHukByg.png)
+
 ## Options
 ### Removing the "kill yourself" text on hover
 Add this to your custom CSS:
