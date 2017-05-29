@@ -1,5 +1,6 @@
 # BetterFidgetSpinners™
 The first fidget spinner theme with photorealistic design and animation for Discord, you wont need a real fidget spinner after this!
+> Made by [Pointy](https://github.com/PointyDev) with help from [BeardDesign](https://github.com/BeardDesign1)
 
 ## Previews
 Dark Theme
@@ -22,11 +23,6 @@ You can put the following in your custom CSS and restart:
 ```
 (Does not work with BetterCustomCSS)
 
-#### Why isn't this in the official #theme-repo?
-Some mod kept on deleting it because they don't know what a joke is.
-
-![Pu is a cunt](http://i.imgur.com/EHukByg.png)
-
 ## Options
 ### Removing the "kill yourself" text on hover
 Add this to your custom CSS:
@@ -36,6 +32,18 @@ Add this to your custom CSS:
 }
 ```
 
-> Made by [Pointy](https://github.com/PointyDev) with help from [BeardDesign](https://github.com/BeardDesign1)
+## FAQ
 
-> [Ebrima](https://www.microsoft.com/typography/fonts/font.aspx?FMID=2114) font made by Microsoft
+### Why isn't this in the official #theme-repo?
+
+Some mod kept on deleting it because they don't know what a joke is.
+
+![Pu is a cunt pt 1](http://i.imgur.com/52WsvCC.png)
+![Pu is a cunt pt 1](http://i.imgur.com/aVqT2bG.png)
+
+### How do I know this is legitimate and isn't going to steal my token?
+
+* CSS is a styling language, not a scripting language
+* A BD admin said it was okay to post before the aforementioned mod had a hissy fit
+
+![Cate is cool](http://i.imgur.com/EHukByg.png)
